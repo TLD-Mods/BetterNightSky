@@ -1,0 +1,8 @@
+C:\Users\Activcom\Desktop\Better-Night-Sky-master\VisualStudio\bin\Debug\net6.0\Better-Night-Sky.deps.json
+C:\Users\Activcom\Desktop\Better-Night-Sky-master\VisualStudio\bin\Debug\net6.0\Better-Night-Sky.dll
+C:\Users\Activcom\Desktop\Better-Night-Sky-master\VisualStudio\obj\Debug\net6.0\Better-Night-Sky.csproj.AssemblyReference.cache
+C:\Users\Activcom\Desktop\Better-Night-Sky-master\VisualStudio\obj\Debug\net6.0\Better-Night-Sky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Activcom\Desktop\Better-Night-Sky-master\VisualStudio\obj\Debug\net6.0\Better-Night-Sky.csproj.CoreCompileInputs.cache
+C:\Users\Activcom\Desktop\Better-Night-Sky-master\VisualStudio\obj\Debug\net6.0\Better-Night-Sky.dll
+C:\Users\Activcom\Desktop\Better-Night-Sky-master\VisualStudio\obj\Debug\net6.0\refint\Better-Night-Sky.dll
+C:\Users\Activcom\Desktop\Better-Night-Sky-master\VisualStudio\obj\Debug\net6.0\ref\Better-Night-Sky.dll
